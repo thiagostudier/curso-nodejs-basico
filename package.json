@@ -1,0 +1,25 @@
+{
+  "name": "node-thiago-studier-curso",
+  "version": "1.0.0",
+  "description": "curso da school of net",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "school",
+    "of",
+    "net",
+    "init",
+    "node.js",
+    "nodejs",
+    "thiago",
+    "studier"
+  ],
+  "author": "Thiago Studier",
+  "license": "ISC",
+  "dependencies": {
+    "console-log-hello-world": "^1.0.3",
+    "websocket": "^1.0.33"
+  }
+}
